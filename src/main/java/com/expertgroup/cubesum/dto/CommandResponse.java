@@ -1,4 +1,4 @@
-package com.expertgroup.cubesum.dao;
+package com.expertgroup.cubesum.dto;
 
 public class CommandResponse {
 	private String result;
