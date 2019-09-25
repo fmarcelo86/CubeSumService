@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.expertgroup.cubesum.dao.CommandResponse;
+import com.expertgroup.cubesum.dto.CommandResponse;
 import com.expertgroup.cubesum.entity.Command;
 import com.expertgroup.cubesum.helper.CubeSumHelper;
 
